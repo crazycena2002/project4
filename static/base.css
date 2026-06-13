@@ -32,7 +32,7 @@ a {
 }
 
 .container {
-  max-width: 1296px;
+  max-width: 1320px;
   margin: 0 auto;
 }
 
@@ -113,7 +113,7 @@ a {
   text-align: center;
   font-size: 20px;
   padding: 14px 0;
-  flex:1;
+  flex: 1;
   color: #3f5d45;
   line-height: 1.5;
   border-right: 1px solid #eaf0ed;
@@ -122,8 +122,8 @@ a {
 .price {
   text-align: center;
   font-size: 20px;
-  padding:14px 0;
-  flex:1;
+  padding: 14px 0;
+  flex: 1;
   font-weight: bold;
   color: #3f5d45;
   line-height: 1.5;
