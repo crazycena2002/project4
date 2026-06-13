@@ -32,7 +32,7 @@ a {
 }
 
 .container {
-  max-width: 1320px;
+  width: 1320px;
   margin: 0 auto;
 }
 
